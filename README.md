@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RealDealApi
 
 To start your Phoenix server:
@@ -16,3 +17,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# Elixir_API-Password-Authentication
+This is an Authentication API based on Elixir 
+>>>>>>> 28f730255d588f87fc002c82c470701d6e4e1a4b
